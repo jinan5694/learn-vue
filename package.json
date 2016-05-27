@@ -1,0 +1,27 @@
+{
+  "name": "learn-vue",
+  "version": "0.1.0",
+  "description": "learn vuejs",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^1.0.24"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinan5694/learn-vue.git"
+  },
+  "keywords": [
+    "learn",
+    "vue"
+  ],
+  "author": "jinan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinan5694/learn-vue/issues"
+  },
+  "homepage": "https://github.com/jinan5694/learn-vue#readme"
+}
